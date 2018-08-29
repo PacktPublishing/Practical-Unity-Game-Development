@@ -24,7 +24,7 @@ Basic understanding of Unity and want to master Unity Game Development by keepin
 ### Technical Requirements
 For successful completion of this course, students will require the computer systems with at least the following:
 
-Minimum Hardware Requirements<br/>
+Hardware Requirements<br/>
 <LI>OS: Windows 7 SP1+, 8, 10, 64-bit versions only; macOS 10.11+
 <LI>Processor: SSE2 instruction set support.
 <LI>Storage: Graphics card with DX10 (shader model 4.0) capabilities.
