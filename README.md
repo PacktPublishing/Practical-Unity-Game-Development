@@ -22,11 +22,12 @@ Unity 3D (2017) is an industry standard tool with an interface that can be very 
 To fully benefit from the coverage included in this course, you will need:<br/>
 Basic understanding of Unity and want to master Unity Game Development by keeping yourself updated with the latest features of Unity, including Shader Graph, Timelines, Cinemachine, Tilemap and much more, then this course is for you!	
 ### Technical Requirements
-Minimum Hardware Requirements<br/>
 For successful completion of this course, students will require the computer systems with at least the following:
+Minimum Hardware Requirements<br/>
 <LI>OS: Windows 7 SP1+, 8, 10, 64-bit versions only; macOS 10.11+
 <LI>Processor: SSE2 instruction set support.
 <LI>Storage: Graphics card with DX10 (shader model 4.0) capabilities.
+  
 Software Requirements<br/>
 Unity 2018 (https://unity3d.com)/ Section 1 describes how to get the software.
 
